@@ -7,6 +7,7 @@ I actively solve LeetCode problems to strengthen my skills in Data Structures an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Dynamic Programming
@@ -25,6 +26,7 @@ I actively solve LeetCode problems to strengthen my skills in Data Structures an
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
