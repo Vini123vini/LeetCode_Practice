@@ -13,6 +13,7 @@ I actively solve LeetCode problems to strengthen my skills in Data Structures an
 | [0169-majority-element](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Vini123vini/LeetCode_Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,11 +51,13 @@ I actively solve LeetCode problems to strengthen my skills in Data Structures an
 | [0169-majority-element](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Vini123vini/LeetCode_Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0509-fibonacci-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Vini123vini/LeetCode_Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +99,8 @@ I actively solve LeetCode problems to strengthen my skills in Data Structures an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0169-majority-element/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Vini123vini/LeetCode_Practice/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
