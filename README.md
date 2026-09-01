@@ -15,6 +15,7 @@ I actively solve LeetCode problems to strengthen my skills in Data Structures an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ I actively solve LeetCode problems to strengthen my skills in Data Structures an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +70,12 @@ I actively solve LeetCode problems to strengthen my skills in Data Structures an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0075-sort-colors/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
