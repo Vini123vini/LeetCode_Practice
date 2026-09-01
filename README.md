@@ -19,6 +19,7 @@ I actively solve LeetCode problems to strengthen my skills in Data Structures an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0075-sort-colors/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@ I actively solve LeetCode problems to strengthen my skills in Data Structures an
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0242-valid-anagram/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
