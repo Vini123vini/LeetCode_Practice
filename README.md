@@ -7,6 +7,7 @@ I actively solve LeetCode problems to strengthen my skills in Data Structures an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0268-missing-number/) | Easy |
@@ -20,6 +21,7 @@ I actively solve LeetCode problems to strengthen my skills in Data Structures an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
@@ -55,6 +57,7 @@ I actively solve LeetCode problems to strengthen my skills in Data Structures an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Vini123vini/LeetCode_Practice/tree/main/0268-missing-number/) | Easy |
 ## String
